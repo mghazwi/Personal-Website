@@ -6,6 +6,8 @@ description: A growing collection of my projects (to be updated soon...).
 nav: true
 ---
 
+To be updated soon
+
 <div class="projects grid">
 
   {% assign sorted_projects = site.projects | sort: "importance" %}

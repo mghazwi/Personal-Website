@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-01-11
+date: 2022-11-07
 inline: true
 ---
 
-My work on adaptive multimodal fusion methods accepted at [EACL 2021](https://2021.eacl.org/){:target="\_blank"} as a full paper!
+Our work on verifiable off-chain computation using Zero-Knowledge proofs was accepted at [ACM-CCS 2022](https://www.sigsac.org/ccs/CCS2022/){:target="\_blank"} as an abstract and poster!

@@ -41,7 +41,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-cv_url: https://drive.google.com/file/d/1p0ZRGcMhHJCGoX-UMZdk8vZbtwO6TmNo/view # your CV/Resume url
+cv_url: https://drive.google.com/file/d/1dklSBAgnYutYPEUEaYH8vVBlLpZyG7Xu/view # your CV/Resume url
 github_username: mghazwi # your GitHub user name
 twitter_username: mghazwi # your Twitter handle
 linkedin_username: mghazwi # your LinkedIn user name
@@ -60,7 +60,7 @@ wikidata_id: # your wikidata id
 # contact_note: >
 #   You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-116228038-1 # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
