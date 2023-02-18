@@ -1,13 +1,11 @@
 ---
 layout: page
 permalink: /teaching/
-title:
+title: teaching
 description: 
 nav: true
 nav_order: 5
 ---
-
-# Teaching
 ## Advanced Topics in Security and Privacy
 ### 2020 - 2022
 ### University of Groningen - Faculty of Science and Engineering
