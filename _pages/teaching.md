@@ -20,7 +20,8 @@ More on this course can be found in [ocasys](https://www.rug.nl/ocasys/fwn/vak/s
 ### 2020 - 2023
 ### University of Groningen - Faculty of Science and Engineering
 The following is a list of student projects that I supervised: 
-- "efficient cryptographic operations in proof circuits (zk-snark) using elliptic curve embedding" Dewi Batista (2023); on-going project. 
+- ["Comparing Zero-Knowledge Rollup Scaling Solutions for Solidity based Decentralized Applications"](https://drive.google.com/file/d/1UWtQ51c52mIyEU0NL1CU1rzap9HW_HZK/view){:target="\_blank"}, Abel Nissen (2023).
+- ["efficient cryptographic operations in proof circuits (zk-snark) using elliptic curve embedding"](https://drive.google.com/file/d/1-0QkYgSwdH1WkIhZ7OE02mpRDiW6BRdB/view){:target="\_blank"} Dewi Batista(2023).
 - ["Privacy-preserving Genome Analysis using Verifiable Off-Chain Computation"](https://fse.studenttheses.ub.rug.nl/27567/){:target="\_blank"} Visscher, Leon (2022); this work was accepted at [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/):target="\_blank"} as a [poster](https://dl.acm.org/doi/abs/10.1145/3548606.3563548){:target="\_blank"}. 
 - ["Blockchain Based Trustworthy Electronic Voting System"](https://fse.studenttheses.ub.rug.nl/26066/){:target="\_blank"}, Pradeep Kumar, Nivin (2021), in collaboration with [Blockchainlab Drenthe](https://www.bcld.nl/en/home-2/){:target="\_blank"}. 
 - ["Secure e-voting using blockchain and zero-knowledge proofs"](https://fse.studenttheses.ub.rug.nl/25649/){:target="\_blank"} Jafri, Rayyan (2021); 
